@@ -13,3 +13,20 @@
  *= require_tree .
  *= require_self
  */
+
+ a {
+  text-decoration: none !important;
+ }
+
+ .fa-pen {
+  margin: 16px;
+ }
+
+ ul {
+  list-style-type: none;
+  padding-left: 0 !important;
+ }
+
+ i {
+  margin: 5px;
+ }
